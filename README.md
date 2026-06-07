@@ -4,7 +4,7 @@
 A company buys materials from different suppliers, but it is difficult to evaluate and compare their performance across multiple parameters. Suppliers are assessed using factors such as Quality, Cost, Delivery, and Compliance, making it challenging to identify which suppliers perform best overall. In this Project my main objective was to evaluate suppliers based on these factors and create a Supplier Performance Scorecard that helps manager identify top-performing and underperforming suppliers and make better procurement decisions.
 
 ## Dashboard Preview
-<img width="1275" height="718" alt="image" src="https://github.com/user-attachments/assets/e5005609-0e9b-46ed-bdb9-42b955432e26" />
+<img width="1277" height="719" alt="image" src="https://github.com/user-attachments/assets/00c8bf3c-bcbc-4cc7-9e66-22feef5ca2b9" />
 
 ## Dataset Used
 [Procurement KPI Analysis Dataset](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
