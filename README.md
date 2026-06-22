@@ -8,6 +8,7 @@ A company buys materials from different vendors, but it is difficult to evaluate
 
 ## Dataset and Tools Used
 [Procurement KPI Analysis Dataset](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset) <br>
+
 SQL • Power BI
 
 ## Assumptions
