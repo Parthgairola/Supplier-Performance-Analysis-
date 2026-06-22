@@ -4,7 +4,7 @@
 A company buys materials from different vendors, but it is difficult to evaluate and compare their performance across multiple parameters. Vendors are assessed using factors such as Quality, Cost, Delivery, and Compliance, making it challenging to identify which vendors perform best overall. In this Project my main objective was to evaluate vendors based on these factors and create a Vendor Performance Scorecard that helps manager identify top-performing and underperforming vendors and make better procurement decisions.
 
 ## Dashboard Preview
-<img width="1394" height="780" alt="image" src="https://github.com/user-attachments/assets/555a264e-1a52-43af-bcd5-d065fdbbb227" />
+<img width="1397" height="780" alt="image" src="https://github.com/user-attachments/assets/8db95890-e680-48f3-b2d5-876cee4f754c" />
 
 ## Dataset Used
 [Procurement KPI Analysis Dataset](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
